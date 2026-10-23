@@ -1,0 +1,6 @@
+{
+  "name": "Spotta Human Capital Executive Suite",
+  "description": "پلتفرم تحلیل راهبردی و پرزنت مدیریتی اکوسیستم سرمایه انسانی گروه صنعتی اسپوتا مخصوص ارائه به مدیریت ارشد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

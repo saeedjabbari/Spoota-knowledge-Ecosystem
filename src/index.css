@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --spotta-orange: #F07824;
+    --spotta-orange-light: #fff2e9;
+    --spotta-dark: #24282d;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}
